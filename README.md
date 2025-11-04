@@ -68,31 +68,31 @@ Supports both **UEFI** and **Legacy BIOS**, using **GPT partitioning** and **exF
 ## Systems (ISOs)
 
 ### Windows
-- [![Windows 11][Windows11_SHIELD]][Windows11_LINK]
-- [![Windows 10][Windows10_SHIELD]][Windows10_LINK]
-- [![Windows 10 LTSC][Windows10_LTSC_SHIELD]][Windows10_LTSC_LINK]
-- [![Windows PE][WindowsPE_SHIELD]][WindowsPE_LINK]
+
+|                          **Name**                         	|                                                    **Description**                                                   	|                                                            **ISO**                                                            	|
+|:---------------------------------------------------------:	|:--------------------------------------------------------------------------------------------------------------------:	|:-----------------------------------------------------------------------------------------------------------------------------:	|
+|     [![Windows 11][Windows11_SHIELD]][Windows11_LINK]     	| Microsoft’s latest OS with a modern design, improved performance, and strong integration with cloud and AI features. 	|                            [Download](https://www.microsoft.com/en-us/software-download/windows11)                            	|
+|     [![Windows 10][Windows10_SHIELD]][Windows10_LINK]     	|         A stable and widely used version focused on compatibility, regular updates, and enterprise features.         	|                            [Download](https://www.microsoft.com/en-us/software-download/windows10)                            	|
+| [![Windows LTSC][Windows_LTSC_SHIELD]][Windows_LTSC_LINK] 	|  A long-term support edition without unnecessary apps or frequent updates, ideal for business and embedded systems.  	|                                      [Download](https://massgrave.dev/windows_ltsc_links)                                     	|
+|     [![Windows PE][WindowsPE_SHIELD]][WindowsPE_LINK]     	|        A lightweight preinstallation environment used for deploying, repairing, or recovering Windows systems.       	| [Download](https://learn.microsoft.com/en-us/windows-hardware/manufacture/desktop/download-winpe--windows-pe?view=windows-11) 	|
 
 ### Linux
-- Mint
-- Debian
-- EndeavourOS
-- Ubuntu
-- Fedora (KDE)
-- Fedora (Gnome)
-- Zorin
-- openSUSE Tumbleweed
-- NixOS
-- Arch
-- AlmaLinux
-- Kali
-- Void
-- Quebes
 
-### Other
-- OpenBSD
-- FreeBSD
-- TempleOS
+|                        **Name**                        	|                                                 **Description**                                                 	|                                 **ISO**                                	|
+|:------------------------------------------------------:	|:---------------------------------------------------------------------------------------------------------------:	|:----------------------------------------------------------------------:	|
+|            [![Mint][Mint_SHIELD]][Mint_LINK]           	| A beginner-friendly Ubuntu-based distro known for its simplicity, stability, and Windows-like Cinnamon desktop. 	|             [Download](https://linuxmint.com/download.php)             	|
+|         [![Debian][Debian_SHIELD]][Debian_LINK]        	|        One of the oldest and most stable Linux distributions, the foundation for many others like Ubuntu.       	|               [Download](https://www.debian.org/distrib/)              	|
+| [![EndeavourOS][EndeavourOS_SHIELD]][EndeavourOS_LINK] 	|        An Arch-based distro offering an easier installation while keeping a near-vanilla Arch experience.       	|                  [Download](https://endeavouros.com/)                  	|
+|         [![Ubuntu][Ubuntu_SHIELD]][Ubuntu_LINK]        	|                A popular, user-friendly Debian-based distro widely used for desktops and servers.               	|                 [Download](https://ubuntu.com/desktop)                 	|
+|         [![Fedora][Fedora_SHIELD]][Fedora_LINK]        	|                  A cutting-edge, Red Hat–backed distro showcasing the latest open-source tech.                  	|         [Download](https://www.fedoraproject.org/kde/download)         	|
+|          [![Zorin][Zorin_SHIELD]][Zorin_LINK]          	|               A visually polished Ubuntu-based distro designed to attract Windows and macOS users.              	|               [Download](https://zorin.com/os/download/)               	|
+|      [![openSUSE][openSUSE_SHIELD]][openSUSE_LINK]     	|         A robust distro with strong administrative tools like YaST, great for developers and sysadmins.         	| [Download](https://get.opensuse.org/tumbleweed/?type=desktop#download) 	|
+|          [![NixOS][NixOS_SHIELD]][NixOS_LINK]          	|      A unique distro using declarative configuration and the Nix package manager for reproducible systems.      	|                 [Download](https://nixos.org/download/)                	|
+|            [![Arch][Arch_SHIELD]][Arch_LINK]           	|                  A minimalist, rolling-release distro for advanced users who want full control.                 	|               [Download](https://archlinux.org/download/)              	|
+|    [![AlmaLinux][AlmaLinux_SHIELD]][AlmaLinux_LINK]    	|                    A community-driven RHEL-compatible distro created as a CentOS replacement.                   	|            [Download](https://almalinux.org/get-almalinux/)            	|
+|            [![Kali][Kali_SHIELD]][Kali_LINK]           	|                   A Debian-based distro tailored for penetration testing and digital forensics                  	|        [Download](https://www.kali.org/get-kali/#kali-platforms)       	|
+|            [![Void][Void_SHIELD]][Void_LINK]           	|                An independent, lightweight distro using runit and the fast XBPS package manager.                	|               [Download](https://voidlinux.org/download/)              	|
+|         [![Quebes][Quebes_SHIELD]][Quebes_LINK]        	|          A security-focused distro using Xen virtualization to isolate apps and tasks into separate VMs         	|             [Download](https://www.qubes-os.org/downloads/)            	|
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -201,16 +201,45 @@ Project Link: [https://github.com/poprostuwitold/aio-usb-drive](https://github.c
 [Windows11_SHIELD]: https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white
 [Windows10_SHIELD]: https://img.shields.io/badge/Windows_10-00A4EF?style=for-the-badge&logo=windows&logoColor=white
 [WindowsPE_SHIELD]: https://img.shields.io/badge/Windows_PE-0078D6?style=for-the-badge&logo=windows&logoColor=white
-[Windows10_LTSC_SHIELD]: https://img.shields.io/badge/Windows_10_LTSC-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[Windows_LTSC_SHIELD]: https://img.shields.io/badge/Windows_LTSC-0078D6?style=for-the-badge&logo=windows&logoColor=white
+
+[Mint_SHIELD]: https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white
+[Debian_SHIELD]: https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white
+[EndeavourOS_SHIELD]: https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white
+[Ubuntu_SHIELD]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+[Fedora_SHIELD]: https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white
+[Zorin_SHIELD]: https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white
+[openSUSE_SHIELD]: https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white
+[NixOS_SHIELD]: https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white
+[Arch_SHIELD]: https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge
+[AlmaLinux_SHIELD]: https://img.shields.io/badge/AlmaLinux-000000?style=for-the-badge&logo=AlmaLinux&logoColor=white
+[Kali_SHIELD]: https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white
+[Void_SHIELD]: https://img.shields.io/badge/Void%20Linux-295340?style=for-the-badge&logo=void-linux&logoColor=white 
+[Quebes_SHIELD]: https://img.shields.io/badge/Qubes%20OS-3874D8?style=for-the-badge&logo=Qubes-OS&logoColor=white
 
 <!-- Other -->
+
 
 <!-- LINKS -->
 <!-- ISOs -->
 [Windows11_LINK]: https://www.microsoft.com/en-us/software-download/windows11
 [Windows10_LINK]: https://www.microsoft.com/en-us/software-download/windows10
 [WindowsPE_LINK]: https://learn.microsoft.com/pl-pl/windows-hardware/manufacture/desktop/download-winpe--windows-pe?view=windows-11
-[Windows10_LTSC_LINK]: https://learn.microsoft.com/en-us/windows/whats-new/ltsc/whats-new-windows-10-2021
+[Windows_LTSC_LINK]: https://learn.microsoft.com/en-us/windows/whats-new/ltsc/whats-new-windows-10-2021
+
+[Mint_LINK]: https://linuxmint.com/
+[Debian_LINK]: https://www.debian.org/index.html
+[EndeavourOS_LINK]: https://endeavouros.com/
+[Ubuntu_LINK]: https://ubuntu.com/
+[Fedora_LINK]: https://www.fedoraproject.org/
+[Zorin_LINK]: https://zorin.com/
+[openSUSE_LINK]: https://www.opensuse.org/
+[NixOS_LINK]: https://nixos.org/
+[Arch_LINK]: https://archlinux.org/
+[AlmaLinux_LINK]: https://almalinux.org/
+[Kali_LINK]: https://www.kali.org/
+[Void_LINK]: https://voidlinux.org/
+[Quebes_LINK]: https://www.qubes-os.org/
 
 <!-- Other -->
 [Ventoy_LINK]: https://www.ventoy.net/en/index.html
