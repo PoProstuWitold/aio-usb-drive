@@ -181,7 +181,7 @@ See the [**``LICENSE``**](LICENSE) file for details.
 - [GitHub](https://github.com/poprostuwitold)  
 - [LinkedIn](https://www.linkedin.com/in/witoldzawada/)
 
-Project Link: [https://github.com/poprostuwitold/aio-usb-drive](https://github.com/poprostuwitold/aio-usb-drive)
+Project Link: [https://github.com/PoProstuWitold/aio-usb-drive](https://github.com/PoProstuWitold/aio-usb-drive)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
