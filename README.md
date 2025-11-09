@@ -101,12 +101,18 @@ Supports both **UEFI** and **Legacy BIOS**, using **GPT partitioning** and **exF
 ## Programs & Tools
 
 ### System Rescue
-- SystemRescue
-- Rescuezilla 
-- Grml
+
+|     **Name**     	|                                                                                                                                                                                                       **Description**                                                                                                                                                                                                       	|                  **Link**                 	|
+|:----------------:	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|:-----------------------------------------:	|
+| **SystemRescue** 	| A Linux system rescue toolkit available as a bootable medium for administrating or repairing your system and data after a crash. It aims to provide an easy way to carry out admin tasks on your computer, such as creating and editing the hard disk partitions. It comes with a lot of Linux system utilities such as GParted, fsarchiver, filesystem tools and basic tools (editors, midnight commander, network tools). 	| [Website](https://www.system-rescue.org/) 	|
+| **Rescuezilla**  	| An open-source easy-to-use disk imaging app that's fully compatible with Clonezilla.                                                                                                                                                                                                                                                                                                                                        	| [Website](https://rescuezilla.com/)       	|
+| **Grml**         	| A bootable live system (Live-CD) based on Debian. Grml includes a collection of GNU/Linux software especially for system administrators. Users don't have to install anything on fixed storage. Grml is especially well suited for administrative tasks like installation, deployment and system rescue.                                                                                                                    	| [Website](https://grml.org/)              	|
 
 ### Scripts
-- massgrave
+
+|                **Name**                	|                                                                     **Description**                                                                     	|              **Link**             	|
+|:--------------------------------------:	|:-------------------------------------------------------------------------------------------------------------------------------------------------------:	|:---------------------------------:	|
+| **Microsoft Activation Scripts (MAS)** 	| Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting. 	| [Website](https://massgrave.dev/) 	|
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -133,7 +139,7 @@ All-In-One USB
 
 ### Setup USB Drive
 1. Install Ventoy using **GPT + exFAT** configuration.  
-2. Copy ISOs into `/ISOs/` or any folder structure you prefer.  
+2. Copy ISOs into `/iso/` or any folder structure you prefer.  
 3. Add scripts, docs, and utilities.  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
