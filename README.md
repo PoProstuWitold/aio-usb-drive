@@ -195,11 +195,27 @@ Project Link: [https://github.com/PoProstuWitold/aio-usb-drive](https://github.c
 
 ## Acknowledgments
 
+- [Microsoft Windows][Windows_LINK]
 - [Ventoy][Ventoy_LINK]
+- [Mint][Mint_LINK]
+- [Debian][Debian_LINK]
+- [EndeavourOS][EndeavourOS_LINK]
+- [Ubuntu][Ubuntu_LINK]
+- [Fedora][Fedora_LINK]
+- [Zorin][Zorin_LINK]
+- [openSUSE][openSUSE_LINK]
+- [NixOS][NixOS_LINK]
+- [Arch Linux][Arch_LINK]
+- [AlmaLinux][AlmaLinux_LINK]
+- [Kali Linux][Kali_LINK]
+- [Void Linux][Void_LINK]
+- [Quebes OS][Quebes_LINK]
+- [SystemRescue][SystemRescue_LINK]
+- [Rescuezilla][Rescuezilla_LINK]
+- [Grml][Grml_LINK]
+- [Microsoft Activation Scripts (MAS)][MAS_LINK]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
----
 
 <!-- MARKDOWN SHIELDS & LINKS -->
 <!-- SHIELDS -->
@@ -248,4 +264,9 @@ Project Link: [https://github.com/PoProstuWitold/aio-usb-drive](https://github.c
 [Quebes_LINK]: https://www.qubes-os.org/
 
 <!-- Other -->
+[Windows_LINK]: https://www.microsoft.com/en-us/windows/
 [Ventoy_LINK]: https://www.ventoy.net/en/index.html
+[SystemRescue_LINK]: https://www.system-rescue.org/
+[Rescuezilla_LINK]: https://rescuezilla.com/
+[Grml_LINK]: https://grml.org/
+[MAS_LINK]: https://massgrave.dev/
