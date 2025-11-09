@@ -67,6 +67,9 @@ Supports both **UEFI** and **Legacy BIOS**, using **GPT partitioning** and **exF
 
 ## Systems (ISOs)
 
+> [!CAUTION]
+> Always verify your ISO checksums!
+
 ### Windows
 
 |                          **Name**                         	|                                                    **Description**                                                   	|                                                            **ISO**                                                            	|
