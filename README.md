@@ -123,7 +123,11 @@ Supports both **UEFI** and **Legacy BIOS**, using **GPT partitioning** and **exF
 Example structure of your USB drive:
 
 ```
-All-In-One USB
+aio_usb
+├── files    # Your files
+├── iso      # System ISO images
+├── scripts  # Scripts like MAS
+└── tools    # Tools like SystemRescue
 ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
