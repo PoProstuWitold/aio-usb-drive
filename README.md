@@ -88,7 +88,6 @@ Supports both **UEFI** and **Legacy BIOS**, using **GPT partitioning** and **exF
 | [![EndeavourOS][EndeavourOS_SHIELD]][EndeavourOS_LINK] 	|        An Arch-based distro offering an easier installation while keeping a near-vanilla Arch experience.       	|                  [Download](https://endeavouros.com/)                  	|
 |         [![Ubuntu][Ubuntu_SHIELD]][Ubuntu_LINK]        	|                A popular, user-friendly Debian-based distro widely used for desktops and servers.               	|                 [Download](https://ubuntu.com/desktop)                 	|
 |         [![Fedora][Fedora_SHIELD]][Fedora_LINK]        	|                  A cutting-edge, Red Hat–backed distro showcasing the latest open-source tech.                  	|         [Download](https://www.fedoraproject.org/kde/download)         	|
-|          [![Zorin][Zorin_SHIELD]][Zorin_LINK]          	|               A visually polished Ubuntu-based distro designed to attract Windows and macOS users.              	|               [Download](https://zorin.com/os/download/)               	|
 |      [![openSUSE][openSUSE_SHIELD]][openSUSE_LINK]     	|         A robust distro with strong administrative tools like YaST, great for developers and sysadmins.         	| [Download](https://get.opensuse.org/tumbleweed/?type=desktop#download) 	|
 |          [![NixOS][NixOS_SHIELD]][NixOS_LINK]          	|      A unique distro using declarative configuration and the Nix package manager for reproducible systems.      	|                 [Download](https://nixos.org/download/)                	|
 |            [![Arch][Arch_SHIELD]][Arch_LINK]           	|                  A minimalist, rolling-release distro for advanced users who want full control.                 	|               [Download](https://archlinux.org/download/)              	|
@@ -166,7 +165,7 @@ aio_usb
 ## FAQ
 
 **Q:** Can I store normal files too?  
-**A:** Yes! exFAT allows you to use it like a normal USB drive.  
+**A:** Yes, exFAT allows you to use it like a normal USB drive.  
 
 **Q:** Will it work on UEFI and BIOS?  
 **A:** Yes, Ventoy supports both.  
@@ -209,7 +208,6 @@ Project Link: [https://github.com/PoProstuWitold/aio-usb-drive](https://github.c
 - [EndeavourOS][EndeavourOS_LINK]
 - [Ubuntu][Ubuntu_LINK]
 - [Fedora][Fedora_LINK]
-- [Zorin][Zorin_LINK]
 - [openSUSE][openSUSE_LINK]
 - [NixOS][NixOS_LINK]
 - [Arch Linux][Arch_LINK]
@@ -237,7 +235,6 @@ Project Link: [https://github.com/PoProstuWitold/aio-usb-drive](https://github.c
 [EndeavourOS_SHIELD]: https://img.shields.io/badge/EndeavourOS-7F7FFF?style=for-the-badge&logo=endeavouros&logoColor=white
 [Ubuntu_SHIELD]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 [Fedora_SHIELD]: https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white
-[Zorin_SHIELD]: https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white
 [openSUSE_SHIELD]: https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white
 [NixOS_SHIELD]: https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white
 [Arch_SHIELD]: https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge
@@ -261,7 +258,6 @@ Project Link: [https://github.com/PoProstuWitold/aio-usb-drive](https://github.c
 [EndeavourOS_LINK]: https://endeavouros.com/
 [Ubuntu_LINK]: https://ubuntu.com/
 [Fedora_LINK]: https://www.fedoraproject.org/
-[Zorin_LINK]: https://zorin.com/
 [openSUSE_LINK]: https://www.opensuse.org/
 [NixOS_LINK]: https://nixos.org/
 [Arch_LINK]: https://archlinux.org/
